@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Evasion Logistique",
+    "slug": "evasion-logistique",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png",
+      "name": "Evasion Logistique",
+      "shortName": "Evasion",
+      "description": "Plateforme de gestion logistique et de livraison pour Evasion",
+      "lang": "fr",
+      "scope": "/",
+      "startUrl": "/",
+      "display": "standalone",
+      "orientation": "any",
+      "backgroundColor": "#ffffff",
+      "themeColor": "#2563eb",
+      "preferRelatedApplications": false
+    },
+    "plugins": ["expo-router", "expo-font", "expo-web-browser"],
+    "extra": {
+      "supabaseUrl": "https://fsyzgtbnntkqeftgyukr.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZzeXpndGJubnRrcWVmdGd5dWtyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIyNzAwMzAsImV4cCI6MjA4Nzg0NjAzMH0.uL6pVbjBItsJDtpCyWbDXShm868eSCUZTMMweeVtEWE"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

@@ -1,0 +1,44 @@
+═══════════════════════════════════════════════════════════
+    IDENTIFIANTS CHAUFFEUR - PRÊT À UTILISER
+═══════════════════════════════════════════════════════════
+
+📧 Email:        chauffeur@demo.fr
+🔑 Mot de passe: demo1234
+
+═══════════════════════════════════════════════════════════
+
+✅ Compte créé via l'API Admin Supabase
+✅ Email confirmé automatiquement
+✅ Profil chauffeur configuré (Chauffeur Demo)
+✅ Fiche chauffeur créée
+✅ 3 commandes affectées pour aujourd'hui
+✅ Total: 460,40 €
+
+═══════════════════════════════════════════════════════════
+
+INSTRUCTIONS:
+
+1. Déconnectez-vous de votre compte actuel
+2. Connectez-vous avec les identifiants ci-dessus
+3. L'interface chauffeur s'affichera automatiquement
+
+═══════════════════════════════════════════════════════════
+
+COMMANDES AFFECTÉES:
+
+- Commande #1005 → Statut: Acceptée → 150,00 €
+- Commande #1006 → Statut: Chargée → 220,50 €
+- Commande #1007 → Statut: En livraison → 89,90 €
+
+═══════════════════════════════════════════════════════════
+
+SI VOUS AVEZ UNE ERREUR:
+
+- Essayez de rafraîchir la page (F5)
+- Videz le cache du navigateur (Ctrl+Shift+R)
+- Essayez en navigation privée
+
+Le compte a été créé avec l'API officielle de Supabase,
+il devrait fonctionner sans problème maintenant.
+
+═══════════════════════════════════════════════════════════
